@@ -1,0 +1,6 @@
+{
+  "name": "Kelulusan SDN Karang Anyar 08 Pagi",
+  "description": "Aplikasi Pengumuman Kelulusan Siswa Kelas 6 SDN Karang Anyar 08 Pagi Jakarta Pusat Tahun Ajaran 2025/2026",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
